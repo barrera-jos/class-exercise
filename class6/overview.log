@@ -1,0 +1,99 @@
+2026-09-29 14:47:34,393 - INFO - Loaded 25 rows from data/messy_netflix_titles.csv
+2026-09-29 14:47:34,393 - DEBUG - Here is the dataframe shape: (25, 7)
+2026-09-29 14:47:34,396 - INFO - Displayed overview
+2026-09-29 14:47:34,397 - DEBUG - removed 0
+2026-09-29 14:47:34,397 - INFO - Removed 0 duplicate rows
+2026-09-29 14:47:34,397 - DEBUG - removed 0
+2026-09-29 14:47:34,810 - INFO - Loaded 25 rows from data/messy_netflix_titles.csv
+2026-09-29 14:47:34,810 - DEBUG - Here is the dataframe shape: (25, 7)
+2026-09-29 14:47:34,812 - INFO - Displayed overview
+2026-09-29 14:47:34,813 - DEBUG - removed 0
+2026-09-29 14:47:34,813 - INFO - Removed 0 duplicate rows
+2026-09-29 14:47:34,813 - DEBUG - removed 0
+2026-09-29 14:47:35,264 - INFO - Loaded 25 rows from data/messy_netflix_titles.csv
+2026-09-29 14:47:35,264 - DEBUG - Here is the dataframe shape: (25, 7)
+2026-09-29 14:47:35,266 - INFO - Displayed overview
+2026-09-29 14:47:35,267 - DEBUG - removed 0
+2026-09-29 14:47:35,267 - INFO - Removed 0 duplicate rows
+2026-09-29 14:47:35,267 - DEBUG - removed 0
+2026-09-29 14:47:35,701 - ERROR - File not found: data/missing.csv
+2026-09-29 14:58:26,204 - INFO - Loaded 25 rows from data/messy_netflix_titles.csv
+2026-09-29 14:58:26,204 - DEBUG - Here is the dataframe shape: (25, 7)
+2026-09-29 14:58:26,206 - INFO - Displayed overview
+2026-09-29 14:58:26,207 - DEBUG - removed 0
+2026-09-29 14:58:26,207 - INFO - Removed 0 duplicate rows
+2026-09-29 14:58:26,207 - DEBUG - removed 0
+2026-09-29 14:58:26,207 - INFO - Dropped 0 rows with missing values
+2026-09-29 14:58:26,658 - INFO - Loaded 25 rows from data/messy_netflix_titles.csv
+2026-09-29 14:58:26,658 - DEBUG - Here is the dataframe shape: (25, 7)
+2026-09-29 14:58:26,660 - INFO - Displayed overview
+2026-09-29 14:58:26,661 - DEBUG - removed 0
+2026-09-29 14:58:26,661 - INFO - Removed 0 duplicate rows
+2026-09-29 14:58:26,661 - DEBUG - removed 0
+2026-09-29 14:58:26,661 - INFO - Dropped 0 rows with missing values
+2026-09-29 14:58:27,106 - INFO - Loaded 25 rows from data/messy_netflix_titles.csv
+2026-09-29 14:58:27,106 - DEBUG - Here is the dataframe shape: (25, 7)
+2026-09-29 14:58:27,108 - INFO - Displayed overview
+2026-09-29 14:58:27,109 - DEBUG - removed 0
+2026-09-29 14:58:27,109 - INFO - Removed 0 duplicate rows
+2026-09-29 14:58:27,109 - DEBUG - removed 0
+2026-09-29 14:58:27,109 - INFO - Dropped 0 rows with missing values
+2026-09-29 14:58:27,584 - ERROR - File not found: data/missing.csv
+2026-09-29 15:03:04,192 - INFO - Loaded 25 rows and 7 columns
+2026-09-29 15:03:04,192 - DEBUG - Here is the dataframe shape: (25, 7)
+2026-09-29 15:03:04,195 - INFO - Displayed DataFrame overview
+2026-09-29 15:03:04,196 - DEBUG - removed 0
+2026-09-29 15:03:04,196 - INFO - Removed 0 duplicate row(s)
+2026-09-29 15:03:04,196 - DEBUG - removed rows with missing values: 0
+2026-09-29 15:03:04,196 - INFO - Dropped 0 rows with missing values
+2026-09-29 15:03:04,631 - INFO - Loaded 25 rows and 7 columns
+2026-09-29 15:03:04,631 - DEBUG - Here is the dataframe shape: (25, 7)
+2026-09-29 15:03:04,634 - INFO - Displayed DataFrame overview
+2026-09-29 15:03:04,635 - DEBUG - removed 0
+2026-09-29 15:03:04,635 - INFO - Removed 0 duplicate row(s)
+2026-09-29 15:03:04,635 - DEBUG - removed rows with missing values: 0
+2026-09-29 15:03:04,635 - INFO - Dropped 0 rows with missing values
+2026-09-29 15:03:05,107 - ERROR - File not found: data/missing.csv
+2026-09-29 15:09:09,686 - INFO - Dataset loaded: data/messy_netflix_titles.csv
+2026-09-29 15:09:09,687 - DEBUG - removed 0
+2026-09-29 15:09:09,687 - INFO - Removed 0 duplicate row(s)
+2026-09-29 15:09:09,687 - DEBUG - removed rows with missing values: 0
+2026-09-29 15:09:09,687 - INFO - Dropped 0 rows with missing values
+2026-09-29 15:09:23,208 - INFO - Dataset loaded: data/messy_netflix_titles.csv
+2026-09-29 15:09:23,209 - DEBUG - removed 0
+2026-09-29 15:09:23,209 - INFO - Removed 0 duplicate row(s)
+2026-09-29 15:09:23,209 - DEBUG - removed rows with missing values: 0
+2026-09-29 15:09:23,209 - INFO - Dropped 0 rows with missing values
+2026-09-29 15:09:23,618 - INFO - Dataset loaded: data/messy_netflix_titles.csv
+2026-09-29 15:09:23,619 - DEBUG - removed 0
+2026-09-29 15:09:23,619 - INFO - Removed 0 duplicate row(s)
+2026-09-29 15:09:23,619 - DEBUG - removed rows with missing values: 0
+2026-09-29 15:09:23,619 - INFO - Dropped 0 rows with missing values
+2026-09-29 15:09:24,025 - ERROR - file not found
+2026-09-29 15:09:26,399 - INFO - Dataset loaded: data/messy_netflix_titles.csv
+2026-09-29 15:09:26,400 - DEBUG - removed 0
+2026-09-29 15:09:26,400 - INFO - Removed 0 duplicate row(s)
+2026-09-29 15:09:26,400 - DEBUG - removed rows with missing values: 0
+2026-09-29 15:09:26,400 - INFO - Dropped 0 rows with missing values
+2026-09-29 15:09:26,815 - INFO - Dataset loaded: data/messy_netflix_titles.csv
+2026-09-29 15:09:26,816 - DEBUG - removed 0
+2026-09-29 15:09:26,816 - INFO - Removed 0 duplicate row(s)
+2026-09-29 15:09:26,816 - DEBUG - removed rows with missing values: 0
+2026-09-29 15:09:26,816 - INFO - Dropped 0 rows with missing values
+2026-09-29 15:09:27,218 - ERROR - file not found
+2026-09-29 15:09:37,646 - INFO - Dataset loaded: data/messy_netflix_titles.csv
+2026-09-29 15:09:37,646 - DEBUG - removed 0
+2026-09-29 15:09:37,646 - INFO - Removed 0 duplicate row(s)
+2026-09-29 15:09:37,647 - DEBUG - removed rows with missing values: 0
+2026-09-29 15:09:37,647 - INFO - Dropped 0 rows with missing values
+2026-09-29 15:09:38,077 - INFO - Dataset loaded: data/messy_netflix_titles.csv
+2026-09-29 15:09:38,077 - DEBUG - removed 0
+2026-09-29 15:09:38,077 - INFO - Removed 0 duplicate row(s)
+2026-09-29 15:09:38,077 - DEBUG - removed rows with missing values: 0
+2026-09-29 15:09:38,077 - INFO - Dropped 0 rows with missing values
+2026-09-29 15:09:38,523 - INFO - Dataset loaded: data/messy_netflix_titles.csv
+2026-09-29 15:09:38,524 - DEBUG - removed 0
+2026-09-29 15:09:38,524 - INFO - Removed 0 duplicate row(s)
+2026-09-29 15:09:38,524 - DEBUG - removed rows with missing values: 0
+2026-09-29 15:09:38,524 - INFO - Dropped 0 rows with missing values
+2026-09-29 15:09:38,942 - ERROR - file not found
